@@ -41,3 +41,4 @@ Promising results for small props taken up-close, with clean backgrounds and a u
 ### Notes:
  + Observed that defining a mask rotates source images 90 degrees CCW
  + Euler seemed like the best sampler model to use from limited trial set - further experimentation of the rest of the models is recommended
+ + Applying more angles than front and back (seem to be the default enabled nodes) is recommended
