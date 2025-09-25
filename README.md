@@ -20,12 +20,12 @@ Exploring workflows to generate 3D assets from multi-view iPhone photos using th
 <img width="1905" height="1083" alt="Attempt 2.2" src="resources/hunyuan3d_01/screenshot03.png" />
 
 ### Attempt 3
+ + Re-took picture with a clearer background (to remove monitors in bg)
  + Attempted to adjust KSampler "cfg" parameter to 8.0
 <img width="1110" height="754" alt="Attempt 3" src="resources/hunyuan3d_01/screenshot04.png" />
 
 ### Attempt 4
- + Re-took picture with a clearer background
- + Attempted to adjust Ksampler sampler_name model to "dpm_2" with "cfg" set to 8.0 (worse results)
+ + Attempted to adjust Ksampler sampler_name model to "dpm_2" with "cfg" set to 8.0 (still not as clear as sampler_name "euler")
 <img width="1901" height="1087" alt="Attempt 4" src="resources/hunyuan3d_01/screenshot05.png" />
 
 ### Attempt 5
