@@ -1,8 +1,8 @@
 # comfyui-3d-tests
 Exploring ComfyUI workflows.
 
-# HunYuan3D Experiments (ComfyUI)
-Exploring workflows to generate 3D assets from multi-view iPhone photos using the HunYuan3D Multiview to Model nodes in ComfyUI.  
+# Hunyuan3D-2 Experiments (ComfyUI)
+Exploring workflows to generate 3D assets from multi-view iPhone photos using the Hunyuan3D-2 Multiview to Model nodes in ComfyUI.  
 
 **Why:** In production, fast turnaround for asset prototyping can save artists significant time.  
 **What I tried:** Testing node graphs for multi-view reconstruction → mesh output.  
